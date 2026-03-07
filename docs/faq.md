@@ -1,5 +1,6 @@
 # FAQ (Perguntas Frequentes)
 
+<!--
 FAQ significa _Frequently Asked Questions_ (Perguntas Frequentes).
 
 O objetivo deste arquivo é reduzir o tempo de suporte e tirar dúvidas rápidas que surgem repetidamente.
@@ -10,3 +11,12 @@ O objetivo deste arquivo é reduzir o tempo de suporte e tirar dúvidas rápidas
 
 **Vantagem:** Centralizar as dúvidas aqui evita que você tenha que responder as mesmas perguntas várias vezes por e-mail
 ou chat.
+-->
+
+### O que significa o acrônimo SOLID?
+A descrição de cada uma das letras presente no acrônimo SOLID pode ser encontrada 
+[aqui](/docs/solid/01-what-is-solid.md#afinal-o-que-são-os-princípios-solid)
+
+### Origem dos princípios SOLID?
+Informações básicas sobre a origem dos princípios *SOLID* pode ser encontrada
+[aqui](/docs/solid/01-what-is-solid.md#origem-dos-princípios-solid)
