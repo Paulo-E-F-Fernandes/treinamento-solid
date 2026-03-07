@@ -20,3 +20,9 @@ A descrição de cada uma das letras presente no acrônimo SOLID pode ser encont
 ### Origem dos princípios SOLID?
 Informações básicas sobre a origem dos princípios *SOLID* pode ser encontrada
 [aqui](/docs/solid/01-what-is-solid.md#origem-dos-princípios-solid)
+
+### Configurar o projeto para ser Java e utilizar o Gradle
+Como foi esquecido de configurar o projeto para ser _Java_ e utilizar o _Gradle_, foi necessário realizar isso em um 
+segundo momento, e os passos necessários estão descritos nesse 
+[arquivo](/docs/add-gradle-in-empty-project.md)
+
