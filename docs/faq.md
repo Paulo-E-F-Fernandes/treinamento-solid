@@ -26,3 +26,6 @@ Como foi esquecido de configurar o projeto para ser _Java_ e utilizar o _Gradle_
 segundo momento, e os passos necessários estão descritos nesse 
 [arquivo](/docs/add-gradle-in-empty-project.md)
 
+### Princípio S - Single Responsibility Principle
+As informações sobre _Single Responsibility Principle_ estão disponíveis nesse
+[arquivo](/docs/solid/02-s.md)
