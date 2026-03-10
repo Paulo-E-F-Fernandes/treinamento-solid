@@ -29,3 +29,7 @@ segundo momento, e os passos necessários estão descritos nesse
 ### Princípio S - Single Responsibility Principle
 As informações sobre _Single Responsibility Principle_ estão disponíveis nesse
 [arquivo](/docs/solid/02-s.md)
+
+### Princípio Aberto-Fechado (O - Open Closed Principle)
+As informações sobre _Open Closed Principle_ estão disponíveis nesse
+[arquivo](/docs/solid/03-o.md)
